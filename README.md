@@ -8,7 +8,7 @@ I’m a developer, explorer, and builder of AI-powered ideas. I blend curiosity,
 
 - 🎓 GRIET'26 - BTech, Computer Science Engineering (AI/ML Specialization)
 - 💡 I build web apps with ML
- 🌱 Love solving real world problems using AI
+- 🌱 Love solving real world problems using AI
 
 ---
 
