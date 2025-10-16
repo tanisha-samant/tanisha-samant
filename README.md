@@ -12,7 +12,7 @@ I’m a developer, explorer, and builder of AI-powered ideas. I blend curiosity,
 
 ---
 
-## 🚀 My favorite works
+## 🚀 Main projects
 
 ### 🛡️ SentinelAI
 AI-powered security for smarter surveillance and anomaly detection.  
@@ -20,7 +20,7 @@ AI-powered security for smarter surveillance and anomaly detection.
 - 🧠 Deep learning models for threat detection
 - 📲 Alert system with Twilio API
 
-### 💸 WealthGenie (Currently working on this)
+### 💸 WealthGenie
 Personal finance assistant that turns numbers into knowledge.  
 - 📊 Visualizes spending habits using ML-driven insights
 - 🗣️ Natural language queries to your finances
@@ -54,7 +54,7 @@ Personal finance assistant that turns numbers into knowledge.
 - [LinkedIn](https://www.linkedin.com/in/tanisha-samant-413073262/)
 - [Email](mailto:tanishasamant24@email.com) <!-- Replace with your email -->
 - [Resume (PDF)](https://drive.google.com/file/d/1YM8oCccXMnRC5G_Rs1P0ez9lM_DGatql/view?usp=sharing) <!-- Add your resume link -->
-- [Portfolio](#) - Under Construction<!-- Add your website when ready! -->
+- [Portfolio](https://tanisha-samant.github.io/portfolio/) <!-- Add your website when ready! -->
 
 ---
 
