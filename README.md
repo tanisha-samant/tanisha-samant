@@ -6,9 +6,9 @@ I’m a developer, explorer, and builder of AI-powered ideas. I blend curiosity,
 
 ## 👩‍💻 About Me
 
-- 🎓 GRIET'26 - BTech, Computer Science Engineering (AI/ML Specialization)
-- 💡 I build web apps with ML
-- 🌱 Love solving real world problems using AI
+-  GRIET'26 - BTech, Computer Science Engineering (AI/ML Specialization)
+-  I build web apps with ML
+-  Love solving real world problems using AI
 
 ---
 
@@ -16,15 +16,15 @@ I’m a developer, explorer, and builder of AI-powered ideas. I blend curiosity,
 
 ### 🛡️ SentinelAI
 AI-powered security for smarter surveillance and anomaly detection.  
-- 🎥 Real-time video and image analysis
-- 🧠 Deep learning models for threat detection
-- 📲 Alert system with Twilio API
+-  Real-time video and image analysis
+-  Deep learning models for threat detection
+-  Alert system with Twilio API
 
 ### 💸 WealthGenie
 Personal finance assistant that turns numbers into knowledge.  
-- 📊 Visualizes spending habits using ML-driven insights
-- 🗣️ Natural language queries to your finances
-- ⚙️ Building with Flask, Next.js, and a pinch of AI
+-  Visualizes spending habits using ML-driven insights
+-  Natural language queries to your finances
+-  Building with Flask, Next.js, and a pinch of AI
 
 ---
 
@@ -42,10 +42,10 @@ Personal finance assistant that turns numbers into knowledge.
 
 ## 📜 Certifications
 
-- ☁️ AWS Cloud Foundations
-- 🤖 Google AI/ML Fundamentals
-- 📊 PowerBI & Microsoft Analytics
-- 🔐 Cybersecurity Fundamentals
+-  AWS Cloud Foundations
+-  Google AI/ML Fundamentals
+-  PowerBI & Microsoft Analytics
+-  Cybersecurity Fundamentals
 
 ---
 
