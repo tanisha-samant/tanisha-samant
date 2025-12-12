@@ -4,7 +4,7 @@ I’m a developer, explorer, and builder of AI-powered ideas. I blend curiosity,
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 -  GRIET'26 - BTech, Computer Science Engineering (AI/ML Specialization)
 -  I build web apps with ML
@@ -12,15 +12,15 @@ I’m a developer, explorer, and builder of AI-powered ideas. I blend curiosity,
 
 ---
 
-## 🚀 Main projects
+##  Main projects
 
-### 🛡️ SentinelAI
+###  SentinelAI
 AI-powered security for smarter surveillance and anomaly detection.  
 -  Real-time video and image analysis
 -  Deep learning models for threat detection
 -  Alert system with Twilio API
 
-### 💸 WealthGenie
+###  WealthGenie
 Personal finance assistant that turns numbers into knowledge.  
 -  Visualizes spending habits using ML-driven insights
 -  Natural language queries to your finances
@@ -28,7 +28,7 @@ Personal finance assistant that turns numbers into knowledge.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Languages:** Python, R, JavaScript, SQL, HTML, CSS  
 **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy  
@@ -40,7 +40,7 @@ Personal finance assistant that turns numbers into knowledge.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 -  AWS Cloud Foundations
 -  Google AI/ML Fundamentals
@@ -49,7 +49,7 @@ Personal finance assistant that turns numbers into knowledge.
 
 ---
 
-## 💬 Let’s Connect!
+##  Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/tanisha-samant-413073262/)
 - [Email](mailto:tanishasamant24@email.com) <!-- Replace with your email -->
